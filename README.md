@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 17 y/o student.<br>💻 Coding is my hobby, and I love building cool projects in my free time.<br>🚀 Still learning new languages and improving my skills every day.<br>🛠️ Currently exploring Python and Html, along with other programming languages.<br>♟️ Outside of coding, I enjoy drawing, chess, football, and fitness.<br>🛠️Been coding since 2023 and continuously improving my skills.<br>🎯 My goal is to become a software engineer in the future.<br>🛠️ Built a Discord bot  that enables users to control their music playback through Spotify and YouTube.<br>
+🎓 18 y/o student.<br>💻 Coding is my hobby, and I love building cool projects in my free time.<br>🚀 Still learning new languages and improving my skills every day.<br>🛠️ Currently exploring Python and Html, along with other programming languages.<br>♟️ Outside of coding, I enjoy drawing, chess, football, and fitness.<br>🛠️Been coding since 2023 and continuously improving my skills.<br>🎯 My goal is to become a software engineer in the future.<br>🛠️ Built a Discord bot  that enables users to control their music playback through Spotify and YouTube.<br>
 
 
 # 💻 Tech Stack:
